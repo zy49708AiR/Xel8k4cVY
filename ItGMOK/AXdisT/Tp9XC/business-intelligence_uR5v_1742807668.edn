@@ -104,7 +104,6 @@
   metabase.actions.test-util/with-temp-test-data                                       [[:inner 0]]
   metabase.api.card-test/with-cards-in-readable-collection                             [[:block 1]]
   metabase.api.card-test/with-cards-in-writeable-collection                            [[:block 1]]
-  metabase.api.card-test/with-ordered-items                                            [[:inner 0]]
   metabase.api.card-test/with-temp-native-card!                                        [[:block 1]]
   metabase.api.card-test/with-temp-native-card-with-params!                            [[:block 1]]
   metabase.api.collection-test/with-collection-hierarchy                               [[:block 1]]
