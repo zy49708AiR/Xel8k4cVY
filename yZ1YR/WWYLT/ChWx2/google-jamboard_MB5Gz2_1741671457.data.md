@@ -33,7 +33,6 @@ Extended details of the carrier board are a work in progress and are documented 
 ## Side I/O
 
 The board on the right is for IO. It's taking in data from the USB type-c and type-a ports as well as video in from the USB type-c and the HDMI port. It's also able to send touch input data to a connected device via the USB type-c port. This allows the screen to act as a large touchscreen display for a connected computer. There are several premade patch cables connecting this board to the carrier board along with one exception. The topmost connector is of the same type as the unknown connection on the touch screen interposer. I want to assume it's power since the board has no other connections that could be fulfilling that purpose. Next is a USB 3.0 Type-A cable. This cable is a USB 3.0 Type-A to Type-C cable that runs up to the camera at the top of the unit. Under that is a USB 3.0 micro-b cable. Next is a Displayport cable and lastly, at the bottom, is an HDMI cable. Externally, it has one HDMI input, two USB 3.0 type-A ports, and one USB type-C port.
-
 ![Side I/O PCB](assets/external-connections.jpeg)
 ![External ports](assets/external-io.jpeg)
 
