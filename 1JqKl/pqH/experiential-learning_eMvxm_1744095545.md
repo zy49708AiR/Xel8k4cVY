@@ -2,7 +2,6 @@
     2  cd labs/ansible/install/
     3  ./installAnsible.sh 
     5  apt-get install software-properties-common
-    6  add-apt-repository ppa:deadsnakes/ppa
     7  apt-get update
     8  apt-get install python3.6
     9  apt-get remove python2.7
