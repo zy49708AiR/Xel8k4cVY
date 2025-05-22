@@ -1,0 +1,9 @@
+type/
+.idea
+node_modules
+packages/**/package-lock.json
+.env
+.env*
+.DS_Store
+**/__test__/**
+.run
