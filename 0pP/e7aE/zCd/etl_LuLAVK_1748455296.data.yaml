@@ -101,7 +101,6 @@ github:
       required_signatures: false
     v2-4-stable:
       required_pull_request_reviews:
-        required_approving_review_count: 1
       required_linear_history: true
       required_signatures: false
     v2-5-stable:
