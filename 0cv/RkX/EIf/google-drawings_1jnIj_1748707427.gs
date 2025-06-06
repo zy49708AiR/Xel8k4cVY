@@ -243,7 +243,6 @@ function processResponses(e) {
               case 'slides':
               case 'drawings':
                 self.url = itemResponses.shift().getResponse();
-                self.url = self.url.replace(self.getUrlSuffix_(),"/export/" + self.modt);
                 break;
               default:
                 throw new Error('TSDynamicUrls.convertUrl(): Invalid document type.');        
