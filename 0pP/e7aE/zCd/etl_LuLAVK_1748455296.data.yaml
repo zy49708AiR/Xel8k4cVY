@@ -166,4 +166,3 @@ notifications:
   commits: commits@airflow.apache.org
   issues: commits@airflow.apache.org
   pullrequests: commits@airflow.apache.org
-  discussions: commits@airflow.apache.org
